@@ -1,1 +1,1 @@
-"# moto-garmin-releases" 
+# moto-garmin-releases
